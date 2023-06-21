@@ -1,0 +1,4 @@
+<resources>
+    <string name="google_maps_url" templateMergeStrategy="preserve" translatable="false">https://maps.googleapis.com/maps/api/directions/json?</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDNFmgFZsS9bP5TsAVcWNK5dVEmTzCTNwY</string>
+</resources>
